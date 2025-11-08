@@ -6,8 +6,7 @@ Prerequisite: Any modern web browser (no Node.js required)
 
 Clone the repository
 
-git clone https://github.com/your-username/interactive-form-validation.git
-
+git clone https://github.com/sherinjessie/interactive-form-validation.git
 
 Navigate to the project directory
 
